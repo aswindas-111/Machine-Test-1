@@ -7,7 +7,7 @@ Django 3.x
 recommended for isolated development environments
 Installation
 Clone the repository:
-2.   git clone https://github.com/aswindas-111/Machine-Test-Mini-Project.git
+2.   git clone https://github.com/aswindas-111/Machine-Test-1.git
 
 3.  Navigate to the project directory:
     cd store
